@@ -9,3 +9,5 @@
 目前包含以下课程的笔记：
 
 - 数字逻辑设计 ： 其中有课程笔记和 24 年期末考的电子版答案， 实验代码在另一个仓库 [class-experiments](https://github.com/capoo-fan/class-experiment/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF)
+- 机器学习：其中有课程笔记的速通笔记，实验代码在 [class-experiments](https://github.com/capoo-fan/class-experiment/tree/main/Machine-learning)
+- 软件构造：其中有总结笔记和关键点笔记，实验代码在 [class-experiments](https://github.com/capoo-fan/class-experiment/tree/main/Software-Construction)
